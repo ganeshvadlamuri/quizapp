@@ -10,10 +10,7 @@ The quiz application is built using HTML, CSS, and JavaScript.
 
 To run the quiz application locally, follow these steps:
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
+1. Clone the repository
 2. Open the index.html file in a web browser.
 
 ## Features
